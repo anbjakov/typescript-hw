@@ -16,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2IPnQUIpwEwB1dXyUwQQ9g8RCdu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../useMemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redux-hw" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\hillel\typescript-hw\node_modules\typescript\lib" />
   </component>
@@ -42,7 +46,7 @@
       <updated>1670092069698</updated>
       <workItem from="1670092071986" duration="17000" />
       <workItem from="1670092089914" duration="9440000" />
-      <workItem from="1670176711433" duration="4815000" />
+      <workItem from="1670176711433" duration="5167000" />
     </task>
     <servers />
   </component>
@@ -59,10 +63,10 @@
       <screen x="0" y="0" width="1600" height="952" />
     </state>
     <state x="606" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1600.952@0.0.1600.952" timestamp="1670176788605" />
-    <state x="581" y="231" key="FileChooserDialogImpl" timestamp="1670092466001">
+    <state x="581" y="231" key="FileChooserDialogImpl" timestamp="1670181840573">
       <screen x="0" y="0" width="1600" height="952" />
     </state>
-    <state x="581" y="231" key="FileChooserDialogImpl/0.0.1600.952@0.0.1600.952" timestamp="1670092466001" />
+    <state x="581" y="231" key="FileChooserDialogImpl/0.0.1600.952@0.0.1600.952" timestamp="1670181840573" />
     <state x="463" y="204" width="672" height="678" key="search.everywhere.popup" timestamp="1670180497177">
       <screen x="0" y="0" width="1600" height="952" />
     </state>

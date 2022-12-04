@@ -4,7 +4,7 @@ type diffResult = {
 }
 function getDiff(firstString:string, secondString: string ): diffResult {
    let result : string[] = [];
-   let concatString = firstString.concat(secondString);
+   let concatString: string = firstString.concat(secondString);
    let arrayOfSymbols: string[];
    let occurrencesArray : string[] = [];
 
