@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f85ae71a-a03e-411d-ac1c-195c2793e2ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IPnQUIpwEwB1dXyUwQQ9g8RCdu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../useMemo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\hillel\typescript-hw\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f85ae71a-a03e-411d-ac1c-195c2793e2ea" name="Default Changelist" comment="" />
+      <created>1670092069698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670092069698</updated>
+      <workItem from="1670092071986" duration="17000" />
+      <workItem from="1670092089914" duration="9440000" />
+      <workItem from="1670176711433" duration="4815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1670176788605">
+      <screen x="0" y="0" width="1600" height="952" />
+    </state>
+    <state x="606" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1600.952@0.0.1600.952" timestamp="1670176788605" />
+    <state x="581" y="231" key="FileChooserDialogImpl" timestamp="1670092466001">
+      <screen x="0" y="0" width="1600" height="952" />
+    </state>
+    <state x="581" y="231" key="FileChooserDialogImpl/0.0.1600.952@0.0.1600.952" timestamp="1670092466001" />
+    <state x="463" y="204" width="672" height="678" key="search.everywhere.popup" timestamp="1670180497177">
+      <screen x="0" y="0" width="1600" height="952" />
+    </state>
+    <state x="463" y="204" width="672" height="678" key="search.everywhere.popup/0.0.1600.952@0.0.1600.952" timestamp="1670180497177" />
+  </component>
+</project>
